@@ -15,3 +15,9 @@ Install the following flake8 plugins in one shot:
 - flake8-mutable
 - mccabe
 - pep8-naming
+
+# Development
+
+- Requirements are compiled using [pip-tools](https://github.com/jazzband/pip-tools)
+
+- The compiled lint.txt is parsed into the install_requires arguments for setup.

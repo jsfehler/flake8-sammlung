@@ -1,4 +1,4 @@
-from .get_requirements import get_requirements
+from get_requirements import get_requirements
 
 from setuptools import find_packages, setup
 

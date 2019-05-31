@@ -1,8 +1,7 @@
 # flake8-sammlung
 
-Install the following flake8 plugins in one shot:
+Install flake8 and the following plugins in one shot:
 
-- flake8
 - flake8-blind-except
 - flake8-broken-line
 - flake8-builtins

@@ -1,6 +1,6 @@
 from get_requirements import get_requirements
 
-from setuptools import find_packages, setup
+from setuptools import setup
 
 
 setup(

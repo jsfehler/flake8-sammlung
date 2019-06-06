@@ -20,3 +20,8 @@ Install [flake8](https://gitlab.com/pycqa/flake8) and the following plugins in o
 - Requirements are compiled using [pip-tools](https://github.com/jazzband/pip-tools)
 
 - The compiled lint.txt is parsed into the install_requires arguments for setup.
+
+# Testing
+
+[tox](https://github.com/tox-dev/tox) is used to build an environment and install the packages.
+If installing the packages fails, there's most likely a version mismatch.

@@ -1,3 +1,3 @@
 def get_requirements():
-    with open('lint.txt') as f:
+    with open('requirements.txt') as f:
         return [line.strip() for line in f]

@@ -2,6 +2,8 @@
 
 Install [flake8](https://gitlab.com/pycqa/flake8) and the following plugins in one shot:
 
+- [bandit](https://github.com/PyCQA/bandit)
+- [dlint](https://github.com/dlint-py/dlint)
 - [flake8-blind-except](https://github.com/elijahandrews/flake8-blind-except)
 - [flake8-broken-line](https://github.com/sobolevn/flake8-broken-line)
 - [flake8-builtins](https://github.com/gforcada/flake8-builtins)
@@ -19,7 +21,7 @@ Install [flake8](https://gitlab.com/pycqa/flake8) and the following plugins in o
 
 - Requirements are compiled using [pip-tools](https://github.com/jazzband/pip-tools)
 
-- The compiled lint.txt is parsed into the install_requires arguments for setup.
+- The compiled requirements.txt is parsed into the install_requires arguments for setup.
 
 # Testing
 

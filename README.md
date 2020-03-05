@@ -4,7 +4,6 @@ Install [flake8](https://gitlab.com/pycqa/flake8) and the following plugins in o
 
 - [bandit](https://github.com/PyCQA/bandit)
 - [dlint](https://github.com/dlint-py/dlint)
-- [flake8-blind-except](https://github.com/elijahandrews/flake8-blind-except)
 - [flake8-broken-line](https://github.com/sobolevn/flake8-broken-line)
 - [flake8-builtins](https://github.com/gforcada/flake8-builtins)
 - [flake8-bugbear](https://github.com/PyCQA/flake8-bugbear)

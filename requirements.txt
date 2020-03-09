@@ -6,7 +6,7 @@
 #
 attrs==19.3.0             # via flake8-bugbear, flake8-multiline-containers
 bandit==1.6.2             # via -r requirements.in (line 1)
-dlint==0.10.2             # via -r requirements.in (line 2)
+dlint==0.10.3             # via -r requirements.in (line 2)
 entrypoints==0.3          # via flake8
 flake8-broken-line==0.1.1  # via -r requirements.in (line 4)
 flake8-bugbear==20.1.4    # via -r requirements.in (line 6)

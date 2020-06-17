@@ -22,7 +22,7 @@ gitpython==3.1.0          # via bandit
 importlib-metadata==1.5.0  # via flake8, flake8-comprehensions
 mccabe==0.6.1             # via -r requirements.in (line 12), flake8
 pbr==5.4.4                # via stevedore
-pep8-naming==0.10.0       # via -r requirements.in (line 13)
+pep8-naming==0.11.1       # via -r requirements.in (line 13)
 pycodestyle==2.6.0        # via flake8, flake8-import-order
 pydocstyle==5.0.2         # via flake8-docstrings
 pyflakes==2.2.0           # via flake8

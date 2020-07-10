@@ -30,7 +30,7 @@ pyyaml==5.3               # via bandit
 six==1.14.0               # via bandit, stevedore
 smmap==3.0.1              # via gitdb
 snowballstemmer==2.0.0    # via pydocstyle
-stevedore==1.32.0         # via bandit
+stevedore==3.0.0         # via bandit
 zipp==3.1.0               # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:

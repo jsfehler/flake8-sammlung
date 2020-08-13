@@ -7,7 +7,7 @@
 attrs==19.3.0             # via flake8-bugbear
 bandit==1.6.2             # via -r requirements.in (line 1)
 dlint==0.10.3             # via -r requirements.in (line 2)
-flake8-broken-line==0.1.1  # via -r requirements.in (line 4)
+flake8-broken-line==0.2.1  # via -r requirements.in (line 4)
 flake8-bugbear==20.1.4    # via -r requirements.in (line 6)
 flake8-builtins==1.5.3    # via -r requirements.in (line 5)
 flake8-commas==2.0.0      # via -r requirements.in (line 7)
@@ -17,20 +17,20 @@ flake8-import-order==0.18.1  # via -r requirements.in (line 10)
 flake8-mutable==1.2.0     # via -r requirements.in (line 11)
 flake8-polyfill==1.0.2    # via pep8-naming
 flake8==3.8.3             # via -r requirements.in (line 3), dlint, flake8-broken-line, flake8-bugbear, flake8-builtins, flake8-commas, flake8-comprehensions, flake8-docstrings, flake8-mutable, flake8-polyfill
-gitdb==4.0.2              # via gitpython
-gitpython==3.1.0          # via bandit
-importlib-metadata==1.5.0  # via flake8, flake8-comprehensions
+gitdb==4.0.5              # via gitpython
+gitpython==3.1.7          # via bandit
+importlib-metadata==1.7.0  # via flake8, flake8-comprehensions, stevedore
 mccabe==0.6.1             # via -r requirements.in (line 12), flake8
-pbr==5.4.4                # via stevedore
-pep8-naming==0.10.0       # via -r requirements.in (line 13)
+pbr==5.4.5                # via stevedore
+pep8-naming==0.11.1       # via -r requirements.in (line 13)
 pycodestyle==2.6.0        # via flake8, flake8-import-order
 pydocstyle==5.0.2         # via flake8-docstrings
 pyflakes==2.2.0           # via flake8
-pyyaml==5.3               # via bandit
-six==1.14.0               # via bandit, stevedore
-smmap==3.0.1              # via gitdb
+pyyaml==5.3.1             # via bandit
+six==1.15.0               # via bandit
+smmap==3.0.4              # via gitdb
 snowballstemmer==2.0.0    # via pydocstyle
-stevedore==1.32.0         # via bandit
+stevedore==3.2.0          # via bandit
 zipp==3.1.0               # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:

@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements.in
 #
-attrs==19.3.0             # via flake8-bugbear, flake8-multiline-containers
+attrs==20.1.0             # via flake8-bugbear, flake8-multiline-containers
 bandit==1.6.2             # via -r requirements.in (line 1)
 dlint==0.10.3             # via -r requirements.in (line 2)
 flake8-broken-line==0.2.1  # via -r requirements.in (line 4)

@@ -27,7 +27,7 @@ pep8-naming==0.11.1       # via -r requirements.in (line 14)
 pycodestyle==2.6.0        # via flake8, flake8-import-order
 pydocstyle==5.1.1         # via flake8-docstrings
 pyflakes==2.2.0           # via flake8
-pyyaml==5.3.1             # via bandit
+pyyaml==5.4             # via bandit
 six==1.15.0               # via bandit
 smmap==3.0.4              # via gitdb
 snowballstemmer==2.0.0    # via pydocstyle

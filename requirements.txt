@@ -29,7 +29,7 @@ pydocstyle==5.1.1         # via flake8-docstrings
 pyflakes==2.2.0           # via flake8
 pyyaml==5.3.1             # via bandit
 six==1.15.0               # via bandit
-smmap==3.0.4              # via gitdb
+smmap==3.0.5              # via gitdb
 snowballstemmer==2.0.0    # via pydocstyle
 stevedore==3.2.0          # via bandit
 zipp==3.1.0               # via importlib-metadata

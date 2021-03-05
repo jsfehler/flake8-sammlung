@@ -32,7 +32,7 @@ six==1.15.0               # via bandit
 smmap==3.0.4              # via gitdb
 snowballstemmer==2.0.0    # via pydocstyle
 stevedore==3.2.0          # via bandit
-zipp==3.1.0               # via importlib-metadata
+zipp==3.4.1               # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools

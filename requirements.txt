@@ -24,7 +24,7 @@ importlib-metadata==1.7.0  # via flake8, flake8-comprehensions, stevedore
 mccabe==0.6.1             # via -r requirements.in (line 13), flake8
 pbr==5.4.5                # via stevedore
 pep8-naming==0.11.1       # via -r requirements.in (line 14)
-pycodestyle==2.6.0        # via flake8, flake8-import-order
+pycodestyle==2.7.0        # via flake8, flake8-import-order
 pydocstyle==5.1.1         # via flake8-docstrings
 pyflakes==2.2.0           # via flake8
 pyyaml==5.4.1             # via bandit

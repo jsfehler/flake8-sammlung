@@ -20,7 +20,7 @@ flake8-builtins==1.5.3
     # via -r requirements.in
 flake8-commas==2.0.0
     # via -r requirements.in
-flake8-comprehensions==3.5.0
+flake8-comprehensions==3.6.1
     # via -r requirements.in
 flake8-docstrings==1.6.0
     # via -r requirements.in
